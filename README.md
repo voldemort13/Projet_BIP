@@ -4,6 +4,21 @@
 
 Welcome to the Tree Node Detection Project! This project aims to develop a method for accurately locating tree nodes in images by determining their characteristics, such as size and eccentricity. The implementation explores two distinct approaches: one based on thresholding and another utilizing the Hough Circle Transform. The goal is to provide a comprehensive solution for detecting both small and large tree nodes in diverse images.
 
+<div style="display: flex; align-items: center; text-align: center;">
+   <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github.com/voldemort13/Projet_BIP/assets/62650460/142752a3-5d94-4d6f-b8c3-5a1ffa740577" width="400" alt="Image 1">
+    <p><em>Image 1: Original image.</em></p>
+  </div>
+
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github.com/voldemort13/Projet_BIP/assets/62650460/f9be90a0-2569-4ed7-92ad-e3e0047ebe77" width="400" alt="Image 2">
+    <p><em>Image 2: Image with the detected knots.</em></p>
+  </div>
+
+</div>
+
+
+
 ## Project Structure
 
 The project is organized into the following sections:
